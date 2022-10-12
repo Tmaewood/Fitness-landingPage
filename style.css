@@ -13,3 +13,16 @@ body {
 .next-level {
   background-color: #212529;
 }
+
+.card {
+  border: none;
+}
+
+.card-body {
+  background-color: #212529;
+}
+
+.card-text {
+  color: white;
+  background-color: #212529;
+}
