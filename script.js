@@ -1,7 +1,7 @@
 
 let mybutton = document.getElementById("myBtn");
 
-on
+
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
